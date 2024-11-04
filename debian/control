@@ -1,0 +1,12 @@
+Source: apt-boto-s3
+Section: misc
+Priority: extra
+Maintainer: Yann Hamon <yann@mandragor.org>
+Build-Depends: debhelper (>=9), devscripts
+Homepage: https://bitbucket.org/bbpd/smart-coverage-u://github.com/nholuongut/apt-boto-s3
+
+Package: apt-boto-s3
+Architecture: all
+Multi-arch: allowed
+Depends: ${shlibs:Depends}, ${misc:Depends}, python, python-pip
+Description: The fast and simple S3 transport for apt.

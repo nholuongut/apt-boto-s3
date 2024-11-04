@@ -1,0 +1,5 @@
+apt-boto-s3 (1.0.0) unstable; urgency=low
+
+  * Initial release
+
+ -- Yann Hamon <yann@mandragor.org>  Wed, 30 Apr 2016 09:37:31 +0000
