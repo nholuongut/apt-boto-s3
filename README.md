@@ -91,3 +91,19 @@ This should just work, but if you need to override this default, set `S3::Signat
 ```
 S3::Signature::Version "2";
 ```
+
+# 🚀 I'm are always open to your feedback.  Please contact as bellow information:
+### [Contact ]
+* [Name: Nho Luong]
+* [Skype](luongutnho_skype)
+* [Github](https://github.com/nholuongut/)
+* [Linkedin](https://www.linkedin.com/in/nholuong/)
+* [Email Address](luongutnho@hotmail.com)
+* [PayPal.me](https://www.paypal.com/paypalme/nholuongut)
+
+![](https://i.imgur.com/waxVImv.png)
+![](Donate.png)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+
+# License
+* Nho Luong (c). All Rights Reserved.🌟
